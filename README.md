@@ -9,7 +9,9 @@ Xplora starts with a main menu:
 
 
 The user is able to choose which floor to start with from the 3 floors.
-According to their choice, they will be directed to the corresponding floor:
+According to their choice, they will be directed to the corresponding floor.
+
+
 FLOOR 1: RENAISSANCE ART
 This floor has a collection of Renaissance paintings with their information. A soothing music is playing in the background for more immersion.
 
