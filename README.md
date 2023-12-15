@@ -28,7 +28,8 @@ The user is also greeted by an animated host at the entrance.
 FLOOR 3: CONTEMPRARY ART
 The third floor of Xplora presents contemprary works. Discover a beautiful collection of contemprary art pieces in this floor, alongside a calming music while you're discovering the floor.
 
-<img width="608" alt="Screenshot 2023-12-15 at 3 49 55 AM" src="https://github.com/aya-amine/xplora/assets/126972019/88c07417-c4dd-4540-82ad-ebb814bdcca3">
+<img width="608" alt="Screenshot 2023-12-15 at 3 49 55 AM" src="https://github.com/aya-amine/xplora/assets/126972019/8baf21b7-b922-471e-a287-4d0c0f9a9921">
+
 
 QUIZ TIME:
 For the sake of keeping the engagement of the users and having a fun/interactive/informative part in the project, a quiz game was implemented. The user is asked to answer a few questions on some information they read in the art pieces' descriptions. There'sa right and wrong answer!
