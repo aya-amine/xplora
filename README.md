@@ -24,6 +24,7 @@ The user is also greeted by an animated host at the entrance.
 <img width="397" alt="Screenshot 2023-12-14 at 8 31 15 PM" src="https://github.com/aya-amine/xplora/assets/126972019/056f90de-eddd-4701-bc75-2c338f44bdda">
 <img width="567" alt="Screenshot 2023-12-14 at 8 20 42 PM" src="https://github.com/aya-amine/xplora/assets/126972019/3ef1bb88-0813-4795-8e4c-e1ff4f997797
 
+
 FLOOR 3: CONTEMPRARY ART
 The third floor of Xplora presents contemprary works. Discover a beautiful collection of contemprary art pieces in this floor, alongside a calming music while you're discovering the floor.
 
