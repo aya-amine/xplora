@@ -1,6 +1,6 @@
 This repository was created for the class "Computer Programming for Engineers" at NYU Abu Dhabi. 
 It contains C# scripts and a video walkthrough of the final project "Xplora".
-##CONCEPT:
+#CONCEPT:
 "Xplora" is a VR museum simulation made of 3 floor with a quiz game. Each floor has a specific theme and contains interesting assets with their information.
 Xplora starts with a main menu:
 
