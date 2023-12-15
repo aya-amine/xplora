@@ -5,6 +5,7 @@ Xplora starts with a main menu:
 
 <img width="611" alt="Screenshot 2023-12-15 at 3 49 01 AM" src="https://github.com/aya-amine/xplora/assets/126972019/f7254cbe-f8e1-47ee-8fe3-6f6d285b9ef4">
 <img width="606" alt="Screenshot 2023-12-15 at 3 49 08 AM" src="https://github.com/aya-amine/xplora/assets/126972019/2fe9df47-872e-4c45-9df2-ae684bccec21">
+
 The user is able to choose which floor to start with from the 3 floors.
 According to their choice, they will be directed to the corresponding floor:
 FLOOR 1: RENAISSANCE ART
@@ -15,11 +16,13 @@ This floor has a collection of Renaissance paintings with their information. A s
 FLOOR 2: ANCIENT/SCULPTURES
 The second floor of Xplora is a different world. Here, the user discovers artifacts from different eras and places, with different stories as well.
 The user is also greeted by an animated host at the entrance.
+
 <img width="397" alt="Screenshot 2023-12-14 at 8 31 15 PM" src="https://github.com/aya-amine/xplora/assets/126972019/056f90de-eddd-4701-bc75-2c338f44bdda">
 <img width="567" alt="Screenshot 2023-12-14 at 8 20 42 PM" src="https://github.com/aya-amine/xplora/assets/126972019/3ef1bb88-0813-4795-8e4c-e1ff4f997797
 
 FLOOR 3: CONTEMPRARY ART
 The third floor of Xplora presents contemprary works. Discover a beautiful collection of contemprary art pieces in this floor, alongside a calming music while you're discovering the floor.
+
 <img width="608" alt="Screenshot 2023-12-15 at 3 49 55 AM" src="https://github.com/aya-amine/xplora/assets/126972019/88c07417-c4dd-4540-82ad-ebb814bdcca3">
 
 QUIZ TIME:
@@ -29,6 +32,7 @@ For the sake of keeping the engagement of the users and having a fun/interactive
 
 YOU CAN ALWAYS GO BACK;
 A pause menu was implemented not to oblige our users to turn off the HMD in order to stop the simulation. You can easily pause/restart/quit the game using the pause menu
+
 <img width="506" alt="Screenshot 2023-12-15 at 3 49 30 AM" src="https://github.com/aya-amine/xplora/assets/126972019/38f23d37-e07e-4198-b1bc-a0362be08c9b">
 
 CREDITS:
