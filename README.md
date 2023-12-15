@@ -4,7 +4,9 @@ It contains C# scripts and a video walkthrough of the final project "Xplora".
 Xplora starts with a main menu:
 
 <img width="611" alt="Screenshot 2023-12-15 at 3 49 01 AM" src="https://github.com/aya-amine/xplora/assets/126972019/f7254cbe-f8e1-47ee-8fe3-6f6d285b9ef4">
+
 <img width="606" alt="Screenshot 2023-12-15 at 3 49 08 AM" src="https://github.com/aya-amine/xplora/assets/126972019/2fe9df47-872e-4c45-9df2-ae684bccec21">
+
 
 The user is able to choose which floor to start with from the 3 floors.
 According to their choice, they will be directed to the corresponding floor:
