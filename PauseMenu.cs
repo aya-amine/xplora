@@ -16,8 +16,8 @@ public class PauseMenu : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        // Check for the Escape key press
-        if (Input.GetKeyDown(KeyCode.Escape))
+        // Check the specific button is pressed on the Oculus Touch controller -- if A is pressed
+        if (OVRInput.GetDown(OVRInput.Button.One))
         {
             // Toggle between pausing and resuming the game
             if (GameIsPaused)
