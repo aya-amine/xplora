@@ -1,4 +1,4 @@
-LINK TO VIDEO OF THE ENVIRONMENT: https://drive.google.com/drive/folders/1FTRWv7WInaO8-ZO6btaTNxBLm72VqL98
+LINK TO VIDEO OF THE ENVIRONMENTS: https://drive.google.com/drive/folders/1FTRWv7WInaO8-ZO6btaTNxBLm72VqL98
 
 LINK TO SLIDES: https://www.canva.com/design/DAF2fIV24vA/mmWQ5jtEoXjj84c-uXtiFA/edit?utm_content=DAF2fIV24vA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
